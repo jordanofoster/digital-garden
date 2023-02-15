@@ -7,10 +7,12 @@ This is hosted in one of two ways:
 - As a statically generated [website](https://digital-garden.jordanofoster.repl.co) on `repl.it`.
 
 [Source here](https://replit.com/@jordanofoster/digital-garden), but the setup is basically this:
+
 1. Run a bash script on boot.
 2. Clone this wiki into `/tmp` on the repl.
 3. Copy specific directories (as of current, `/assets`) into the repl.
-3. For each file in the repository:
+4. For each file in the repository:
+
     1. Extract its 'name' and extension.
         - If these are the same, it's a directory - skip it.
     2. If the title is "Home" (this page!) the resultant filename is `index.html`.

@@ -5,6 +5,7 @@ This is hosted in one of two ways:
 
 - As a [GitHub Wiki](https://github.com/jordanofoster/digital-garden/wiki)
 - As a statically generated [website](https://digital-garden.jordanofoster.repl.co) on `repl.it`.
+[[Home]]
 
 [Source here](https://replit.com/@jordanofoster/digital-garden), but the setup is basically this:
 

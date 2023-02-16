@@ -37,7 +37,7 @@ The *GitHub/GitLab* and *[Gollum](https://github.com/gollum/gollum)* wikis use t
     - *Pod*
     - *Creole*
 
-The current implementation of *make.sh* (see [Home](Home.md)) involves `pandoc` hueristically determining the input file format; this means that special options *cannot be enabled.*
+The current implementation of *make.sh* (see [Home](Home)) involves `pandoc` hueristically determining the input file format; this means that special options *cannot be enabled.*
 ## Metadata
 
 Generally, metadata is not supported by GitHub/GitLab wiki. inline *YAML* metadata on markdown files *is* supported by Gollum, however.

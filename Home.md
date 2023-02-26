@@ -1,3 +1,8 @@
+---
+id: 20230226131809
+title: 'Digital Garden'
+subtitle: 'Homepage for the digital-garden wiki'
+---
 # Digital Garden
 
 Welcome to the digital-garden wiki. The contents of this wiki are classified as [PUBLIC](PUBLIC).

@@ -2,6 +2,7 @@
 
 *Full servings unknown, but allowed three people to have ~2 servings each.*
 *“Serves 6”*
+
 ## Ingredients:
 
 - *4 potatoes (medium)*

@@ -8,7 +8,7 @@
 | underline |  `[.underline]#underline` | ❌ | ❌ | `_underlined_` | ❌ | ❌ |
 | highlight | `##highlight##` or `#highlight#` | `==highlight==` | ❌ | ❌ | ❌ | ❌ |
 | strikethrough | `[.line-through]#strikethrough` | `~strikethrough~` | ❌ | `+strikethrough+` | `-strikethrough-` | ❌ |
-| monospace | \`monospace\` | \`monospace\` |  
+| monospace | \`monospace\` | \`monospace\` | ❌ | `=monospace=` | `pre. monospace` | \`\`monospace\`\` |
 | superscript | `^super^` | `^super^` | ❌ | `^{sup}` or `^sup^` | ❌ | ❌ |
 | subscript | `~sub~` | `~sub~` | ❌ | `_{sub}` or `_sub_` | ❌ | ❌ |
 
@@ -22,7 +22,7 @@
 
 ###### Footnotes: 
 
-1. No consistent spec appears to be defined for MediaWiki syntax.
+1. No consistent spec appears to be defined for MediaWiki syntax. Many flavors of wikitext will also follow their own format.
 2. Place your target at the bottom in the following syntax:
 ```rst
 .. _text: link  

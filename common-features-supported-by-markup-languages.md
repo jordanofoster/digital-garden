@@ -1,3 +1,5 @@
+**NOTE: this does *not* consider support for using other language's markup (i.e., HTML, or LaTeX math expressions) as supported; such cases are still marked as ❌**
+
 ## Text Formatting 
 
 | | asciidoc | markdown | mediawiki<sub>[1]</sub> | org-mode | textile | restructuredtext |

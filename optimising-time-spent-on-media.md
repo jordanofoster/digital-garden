@@ -257,6 +257,12 @@ Evaluate audiobooks and audiodramas by inspecting their original sources. When d
 
 ## "How can I curate my feeds?"
 
+A fair amount of the ways discussed to [find new content](#how-do-i-find-new-content) also serve as a pre-digested view of the content in the world:
+
+- [Social Bookmarking Services](#social-bookmarking-services)
+- [Trusted Sources](#trusted-sources)
+
+However
 
 ## TL;DR
 

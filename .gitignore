@@ -1,0 +1,13 @@
+*
+!.gitignore
+!assets/bbepsummaries.JPG
+!assets/bbshowdesc.JPG
+!assets/raepsummary.JPG
+!assets/rapodsummary.JPG
+!assets/worthtime.drawio.png
+!metadata/Borscht.md.json
+!metadata/Home.md.json
+!metadata/Valid-Markup-and-File-Extensions.md.json
+!cool-places-on-google-street-view.org
+!optimising-time-spent-on-media.md
+!rare-rss.md

@@ -3,6 +3,8 @@
 *Full servings unknown, but allowed three people to have ~2 servings each.*
 *“Serves 6”*
 
+Saw housemate cooking this during placement.
+
 ## Ingredients:
 
 - *4 potatoes (medium)*

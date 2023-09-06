@@ -1,6 +1,7 @@
 # Digital Garden
 
-Welcome to the digital-garden wiki. The contents of this wiki are classified as [PUBLIC](PUBLIC).
+Welcome to the digital-garden wiki. The contents of this wiki are classified as [PUBLIC](./system/classifications/PUBLIC.md).
+
 This is hosted in one of two ways:
 
 - As a [GitHub Wiki](https://github.com/jordanofoster/digital-garden/wiki)
